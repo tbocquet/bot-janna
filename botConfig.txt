@@ -1,0 +1,23 @@
+_______________________________________
+|#| Fichier de configuration du bot |#|
+---------------------------------------
+|#|Les valeurs des paramètres doivent impérativement être mises entre des . |#|
+-------------------------------------------------------------------------------
+spellorder = .reza.				|#| Ordre d'augmentation des spells
+mana = .true. 					|#| Valeurs possible : true | false 
+champion = .ivern. 				|#| Valeurs possible : janna| lee | lulu | nami | yuumi | ivern(seulement en 1920)
+screen resolution = .1920_1080. |#| Valeurs possible : 1920_1080 |1366_768
+items = .lame du voleur,larme,lucidit,pierre de lune,ardent,mika. |#| Items du bot avec ordre d'achat
+__________________________________________________
+|#|Vous pouvez stocker vos presets ci dessous : |#|
+--------------------------------------------------
+
+|#|lee|#|
+items = .lame du voleur,lucidit,pierre de lune,ardent,mika,redempt.
+
+|#|janna, nami, lulu |#|
+items = .lame du voleur,larme,lucidit,pierre de lune,ardent,mika.
+
+|#|yuumi|#|
+items = .lame du voleur,interdite,pierre de lune,flots,ardent,mika.
+
